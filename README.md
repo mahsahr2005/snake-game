@@ -1,20 +1,4 @@
-# Requirements
 
-you'll need to install:
-
-- pygame==2.0.1
-- numpy
-
-# About
-
-Used for educational purposes, show cases different path finding Ai and a genetic algorithm using neural networks.  
-These algorithms are evaluated under the same fruit seed spawn.
-This project does not aim to create the perfect Ai snake, only vanilla path finding algorithms are used and a simple neural network.  
-[preview](https://www.youtube.com/watch?v=AEQMAnJ5iP4)
-
-# what to expect
-
-Main.py runs the program.
 
 ## 1) Genetic algorithm using neural networks
 
